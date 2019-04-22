@@ -1,0 +1,2 @@
+git config user.email 查看本地配置邮箱
+git config --global user.email "user@example.com" 修改本地邮箱
